@@ -1,0 +1,533 @@
+[
+    {
+        "cid": 1,
+        "title": "动漫",
+        "english": "ACG picture sites",
+        "r18": false,
+        "sites": [
+            {
+                "sid": 101,
+                "title": "A区",
+                "author": "zhihaofans",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/zhihaofans/master/icons/A区.png",
+                "description": "A区动漫图站",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/zhihaofans/master/sites/A区.txt",
+                "versionCode": 4,
+                "lastUpdate": "2016-10-25 04:43:42",
+                "r18": true
+            },
+            {
+                "sid": 102,
+                "title": "胖次网",
+                "author": "zhihaofans",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/zhihaofans/master/icons/胖次网.png",
+                "description": "让世界更萌",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/zhihaofans/master/sites/胖次网.txt",
+                "versionCode": 2,
+                "lastUpdate": "2017-03-25 23:00:00",
+                "r18": false
+            },
+            {
+                "sid": 103,
+                "title": "Minitokyo",
+                "author": "zhihaofans",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/zhihaofans/master/icons/Minitokyo.png",
+                "description": "动漫艺术社区",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/zhihaofans/master/sites/Minitokyo.txt",
+                "versionCode": 1,
+                "lastUpdate": "2017-03-19 01:00",
+                "r18": false
+            }
+        ]
+    },
+    {
+        "cid": 2,
+        "title": "漫画",
+        "english": "Hentai manga sites",
+        "r18": true,
+        "sites": [
+            {
+                "sid": 201,
+                "title": "绅士漫画",
+                "author": "PureDark",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/icons/wnacg.png",
+                "description": "专注分享汉化本子",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/sites/wnacg.txt",
+                "versionCode": 3,
+                "lastUpdate": "2016-11-15 19:59:25",
+                "r18": true
+            },
+            {
+                "sid": 202,
+                "title": "nHentai",
+                "author": "PureDark",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/icons/nhentai.png",
+                "description": "最大的优点是没有被墙",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/sites/nhentai.txt",
+                "versionCode": 4,
+                "lastUpdate": "2017-03-02 19:33:51",
+                "r18": true
+            },
+            {
+                "sid": 203,
+                "title": "177漫画",
+                "author": "PureDark",
+                "description": "收录的漫画以汉化单行本为主",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/sites/177%E6%BC%AB%E7%94%BB.txt",
+                "versionCode": 2,
+                "lastUpdate": "2016-09-27 01:36:05",
+                "r18": true
+            },
+            {
+                "sid": 204,
+                "title": "エロ漫画同人誌",
+                "author": "sosmygirl",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/icons/%E3%82%A8%E3%83%AD%E6%BC%AB%E7%94%BB%E5%90%8C%E4%BA%BA%E8%AA%8C.png",
+                "description": "一个专注同人本子的网站",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/sites/%E3%82%A8%E3%83%AD%E6%BC%AB%E7%94%BB%E5%90%8C%E4%BA%BA%E8%AA%8C.txt",
+                "versionCode": 3,
+                "lastUpdate": "2016-10-04 15:57:34",
+                "r18": true
+            },
+            {
+                "sid": 205,
+                "title": "H-Manga.moe",
+                "author": "sosmygirl",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/icons/H-Manga.moe.png",
+                "description": "在线阅览 每日更新",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/sites/H-Manga.moe.txt",
+                "versionCode": 4,
+                "lastUpdate": "2017-03-21 04:08:34",
+                "r18": true
+            },
+            {
+                "sid": 206,
+                "title": "萌春画",
+                "author": "sosmygirl",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/icons/%E8%90%8C%E6%98%A5%E7%94%BB.png",
+                "description": "萌春画",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/sites/%E8%90%8C%E6%98%A5%E7%94%BB.txt",
+                "versionCode": 3,
+                "lastUpdate": "2017-03-21 04:08:34",
+                "r18": true
+            }
+		]
+    },
+    {
+        "cid": 3,
+        "title": "写真",
+        "english": "Nude Photography Sites",
+        "r18": false,
+        "sites": [
+            {
+                "sid": 301,
+                "title": "豆瓣照片",
+                "author": "zhihaofans",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/zhihaofans/master/icons/豆瓣美女.png",
+                "description": "豆瓣照片分享社区",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/zhihaofans/master/sites/豆瓣美女.txt",
+                "versionCode": 2,
+                "lastUpdate": "2016-11-11 09:59:00",
+                "r18": false
+            },
+            {
+                "sid": 302,
+                "title": "girlimg",
+                "author": "zhihaofans",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/zhihaofans/master/icons/girlimg.png",
+                "description": "图片来自Tumblr服务器",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/zhihaofans/master/sites/girlimg.txt",
+                "versionCode": 1,
+                "lastUpdate": "2016-12-01 14:00:00",
+                "r18": true
+            },
+            {
+                "sid": 303,
+                "title": "天狗美阅",
+                "author": "zhihaofans",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/zhihaofans/master/icons/天狗美阅.png",
+                "description": "打造时尚开放美图(服务器网速很慢)",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/zhihaofans/master/sites/天狗美阅.txt",
+                "versionCode": 1,
+                "lastUpdate": "2016-12-08 23:00:00",
+                "r18": false
+            },
+            {
+                "sid": 304,
+                "title": "动漫之家",
+                "author": "zhihaofans",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/zhihaofans/master/icons/动漫之家.png",
+                "description": "动漫之家的美图欣赏分类",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/zhihaofans/master/sites/动漫之家.txt",
+                "versionCode": 1,
+                "lastUpdate": "2017-02-23 00:30:00",
+                "r18": false
+            },
+            {
+                "sid": 305,
+                "title": "写真图吧",
+                "author": "zhihaofans",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/zhihaofans/master/icons/写真图吧.png",
+                "description": "写真图吧",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/zhihaofans/master/sites/写真图吧.txt",
+                "versionCode": 1,
+                "lastUpdate": "2017-03-26 00:00:00",
+                "r18": false
+            },
+            {
+                "sid": 306,
+                "title": "秀人",
+                "author": "PureDark",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/icons/%E7%A7%80%E4%BA%BA.png",
+                "description": "专注模特写真及周边产业的互动平台",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/sites/%E7%A7%80%E4%BA%BA.txt",
+                "versionCode": 3,
+                "lastUpdate": "2017-03-13 09:41:23",
+                "r18": true
+            },
+            {
+                "sid": 307,
+                "title": "Rosi",
+                "author": "vvyoko",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/icons/Rosi.png",
+                "description": "性感美女写真",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/sites/Rosi.txt",
+                "versionCode": 4,
+                "lastUpdate": "2017-03-21 04:08:16",
+                "r18": true
+            },
+            {
+                "sid": 308,
+                "title": "妹子图",
+                "author": "PureDark",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/icons/%E5%A6%B9%E5%AD%90%E5%9B%BE.png",
+                "description": "每日分享最新最全最优质的妹子图片和高清性感美女图片",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/sites/%E5%A6%B9%E5%AD%90%E5%9B%BE.txt",
+                "versionCode": 4,
+                "lastUpdate": "2016-09-30 03:46:15",
+                "r18": true
+            },
+            {
+                "sid": 309,
+                "title": "妹子图2",
+                "author": "sosmygirl",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/icons/%E5%A6%B9%E5%AD%90%E5%9B%BE2.png",
+                "description": "每天都有不一样的呈现",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/sites/%E5%A6%B9%E5%AD%90%E5%9B%BE2.txt",
+                "versionCode": 3,
+                "lastUpdate": "2016-10-03 23:22:13",
+                "r18": true
+            },
+            {
+                "sid": 410,
+                "title": "美女图片集",
+                "author": "PureDark",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/icons/美女图片集.png",
+                "description": "脱而不露的致命诱惑",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/sites/美女图片集.txt",
+                "versionCode": 4,
+                "lastUpdate": "2016-10-16 04:13:53",
+                "r18": true
+            },
+            {
+                "sid": 411,
+                "title": "Nude-Atlas",
+                "author": "PureDark",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/icons/Nude-Atlas.png",
+                "description": "各国的裸体写真站",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/sites/Nude-Atlas.txt",
+                "versionCode": 5,
+                "lastUpdate": "2016-10-16 04:45:53",
+                "r18": true
+            },
+            {
+                "sid": 412,
+                "title": "宅男女神",
+                "author": "PureDark",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/icons/宅男女神.png",
+                "description": "分享最全的宅男女神资料",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/sites/宅男女神.txt",
+                "versionCode": 2,
+                "lastUpdate": "2016-10-16 05:10:26",
+                "r18": true
+            }
+        ]
+    },
+    {
+        "cid": 4,
+        "title": "真人",
+        "english": "Reality Sites",
+        "r18": true,
+        "sites": [
+		    {
+                "sid": 401,
+                "title": "草榴社区",
+                "author": "PureDark",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/icons/1024.png",
+                "description": "1024毋须多言",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/sites/1024.txt",
+                "versionCode": 4,
+                "lastUpdate": "2016-11-28 00:16:46",
+                "r18": true
+            },
+            {
+                "sid": 402,
+                "title": "AVMOO",
+                "author": "PureDark",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/icons/AVMOO.png",
+                "description": "你的线上日本成人影片情报站",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/sites/AVMOO.txt",
+                "versionCode": 3,
+                "lastUpdate": "2016-10-15 03:58:53",
+                "r18": true
+            },
+            {
+                "sid": 403,
+                "title": "AVMEMO",
+                "author": "PureDark",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/icons/AVMEMO.png",
+                "description": "你的线上欧美成人影片情报站",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/sites/AVMEMO.txt",
+                "versionCode": 3,
+                "lastUpdate": "2016-10-15 03:58:36",
+                "r18": true
+            },
+            {
+                "sid": 404,
+                "title": "モモんガッ(･∀･)!!",
+                "author": "Ryogiakira",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/icons/%E3%83%A2%E3%83%A2%E3%82%93%E3%82%AC%E3%83%83(%EF%BD%A5%E2%88%80%EF%BD%A5)!!.png",
+                "description": "毎日更新",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/sites/%E3%83%A2%E3%83%A2%E3%82%93%E3%82%AC%E3%83%83(%EF%BD%A5%E2%88%80%EF%BD%A5)!!.txt",
+                "versionCode": 2,
+                "lastUpdate": "2016-10-07 13:18:16",
+                "r18": true
+            },
+            {
+                "sid": 405,
+                "title": "お宝エログ幕府",
+                "author": "Ryogiakira",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/icons/お宝エログ幕府.png",
+                "description": "2chまとめ画像ブログ",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/sites/お宝エログ幕府.txt",
+                "versionCode": 2,
+                "lastUpdate": "2016-10-07 13:18:16",
+                "r18": true
+            },
+            {
+                "sid": 406,
+                "title": "ぷるるんお宝画像庫",
+                "author": "Ryogiakira",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/icons/ぷるるんお宝画像庫.png",
+                "description": "宝画像庫",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/sites/ぷるるんお宝画像庫.txt",
+                "versionCode": 2,
+                "lastUpdate": "2016-10-07 13:18:16",
+                "r18": true
+            },
+            {
+                "sid": 407,
+                "title": "エロ画像すももちゃんねる",
+                "author": "Ryogiakira",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/icons/エロ画像すももちゃんねる.png",
+                "description": "エロ画像",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/sites/エロ画像すももちゃんねる.txt",
+                "versionCode": 2,
+                "lastUpdate": "2016-10-07 13:18:16",
+                "r18": true
+            },
+            {
+                "sid": 408,
+                "title": "みんくちゃんねる",
+                "author": "Ryogiakira",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/icons/みんくちゃんねる.png",
+                "description": "Twitterまとめ",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/sites/みんくちゃんねる.txt",
+                "versionCode": 2,
+                "lastUpdate": "2016-10-07 13:18:16",
+                "r18": true
+            },
+            {
+                "sid": 409,
+                "title": "エロチカ",
+                "author": "Ryogiakira",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/icons/エロチカ.png",
+                "description": "やグラドル・女神最新動画像まとめ",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/sites/エロチカ.txt",
+                "versionCode": 2,
+                "lastUpdate": "2016-10-07 13:18:16",
+                "r18": true
+            }
+		]
+    },
+    {
+        "cid": 5,
+        "title": "素材",
+        "english": "Resource Sites",
+        "r18": false,
+        "sites": [
+            {
+                "sid": 501,
+                "title": "deviantART",
+                "author": "zhihaofans",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/zhihaofans/master/icons/deviantart.png",
+                "description": "一个为艺术家而设计的社交网络服务网站",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/zhihaofans/master/sites/deviantart.txt",
+                "versionCode": 1,
+                "lastUpdate": "2016-11-15 17:25:23",
+                "r18": false
+            },
+            {
+                "sid": 502,
+                "title": "图虫网",
+                "author": "zhihaofans",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/zhihaofans/master/icons/图虫.png",
+                "description": "最好的摄影师都在这",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/zhihaofans/master/sites/图虫.txt",
+                "versionCode": 1,
+                "lastUpdate": "2016-11-22 04:40:00",
+                "r18": false
+            },
+            {
+                "sid": 503,
+                "title": "每日一图",
+                "author": "zhihaofans",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/zhihaofans/master/icons/bing.png",
+                "description": "必应每日一图",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/zhihaofans/master/sites/bing.txt",
+                "versionCode": 1,
+                "lastUpdate": "2016-11-25 13:10:00",
+                "r18": false
+            },
+            {
+                "sid": 504,
+                "title": "PeekSpace",
+                "author": "zhihaofans",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/zhihaofans/master/icons/peekspace.png",
+                "description": "所有图片均来自美国宇航局",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/zhihaofans/master/sites/peekspace.txt",
+                "versionCode": 1,
+                "lastUpdate": "2017-03-09 01:00:00",
+                "r18": false
+            },
+            {
+                "sid": 505,
+                "title": "ArtStation",
+                "author": "zhihaofans",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/zhihaofans/master/icons/ArtStation.png",
+                "description": "艺术作品展示平台",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/zhihaofans/master/sites/ArtStation.txt",
+                "versionCode": 1,
+                "lastUpdate": "2017-03-19 05:00:00",
+                "r18": false
+            },
+            {
+                "sid": 506,
+                "title": "Dribbble",
+                "author": "PureDark",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/icons/Dribbble.png",
+                "description": "艺术作品交流网站",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/sites/Dribbble.txt",
+                "versionCode": 4,
+                "lastUpdate": "2016-10-20 06:14:15",
+                "r18": false
+            },
+            {
+                "sid": 507,
+                "title": "UI中国",
+                "author": "PureDark",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/icons/UI%E4%B8%AD%E5%9B%BD.png",
+                "description": "专业界面交互设计平台",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/sites/UI%E4%B8%AD%E5%9B%BD.txt",
+                "versionCode": 4,
+                "lastUpdate": "2016-10-20 06:15:15",
+                "r18": false
+            },
+            {
+                "sid": 508,
+                "title": "花瓣网-采集",
+                "author": "PureDark",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/icons/花瓣网.png",
+                "description": "我的采集",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/sites/花瓣网-采集.txt",
+                "versionCode": 3,
+                "lastUpdate": "2017-03-30 00:09:29",
+                "r18": false
+            },
+            {
+                "sid": 509,
+                "title": "花瓣网-画板",
+                "author": "PureDark",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/icons/花瓣网.png",
+                "description": "关注画板",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/sites/花瓣网-画板.txt",
+                "versionCode": 4,
+                "lastUpdate": "2017-03-30 00:09:29",
+                "r18": false
+            },
+            {
+                "sid": 610,
+                "title": "Pinterest",
+                "author": "PureDark",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/icons/Pinterest.png",
+                "description": "通过图片墙Pinboard发布图片（必须要登录才能浏览）",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/sites/Pinterest.txt",
+                "versionCode": 2,
+                "lastUpdate": "2016-10-20 06:16:29",
+                "r18": false
+            },
+            {
+                "sid": 611,
+                "title": "Tumblr",
+                "author": "PureDark",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/icons/Tumblr.png",
+                "description": "目前全球最大的轻博客网站（登录以在首页显示订阅内容）",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/sites/Tumblr.txt",
+                "versionCode": 3,
+                "lastUpdate": "2017-03-30 00:09:54",
+                "r18": false
+            }
+        ]
+    },
+    {
+        "cid": 6,
+        "title": "视频",
+        "english": "Video Sites",
+        "r18": true,
+        "sites": [
+            {
+                "sid": 601,
+                "title": "H-Anime",
+                "author": "PureDark",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/icons/H-Anime.png",
+                "description": "在线观看 与时俱进",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/sites/H-Anime.txt",
+                "versionCode": 1,
+                "lastUpdate": "2016-10-28 10:51:15",
+                "r18": true
+            },
+            {
+                "sid": 602,
+                "title": "Hentai Play",
+                "author": "PureDark",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/icons/Hentai-Play.png",
+                "description": "上千部每日更新的动画可供在线观看",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/sites/Hentai-Play.txt",
+                "versionCode": 1,
+                "lastUpdate": "2016-10-28 10:51:15",
+                "r18": true
+            },
+            {
+                "sid": 603,
+                "title": "Pornhub",
+                "author": "PureDark",
+                "icon": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/icons/Pornhub.png",
+                "description": "全世界最大的成人视频网站",
+                "json": "https://raw.githubusercontent.com/H-Viewer-Sites/Index/master/sites/Pornhub.txt",
+                "versionCode": 2,
+                "lastUpdate": "2017-03-02 19:19:15",
+                "r18": true
+            }
+        ]
+    }
+]
